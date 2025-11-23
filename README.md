@@ -11,44 +11,44 @@
 
 ## 🌿 About Me
 - 🎓 IT undergraduate at **SLIIT**
-- 📊 Interested in **data analytics, data science, machine learning**, and backend development  
-- 💡 I love solving problems through data, visualizations, and clean code  
-- 🌱 Currently learning **Java, Python, SQL, HTML, CSS, Git, and basic ML workflows**
-- ⚡ I learn best by building things step-by-step  
-- 🎯 Long-term goal: become a **Data Scientist / AI Engineer**
+- 📊 Interested in **data analytics, data science, and machine learning**
+- 💻 Love working with data, visualizations, and clean code  
+- 🌱 Learning: **Java, Python, SQL, HTML, CSS, Git, and ML basics**
+- ⚡ Strong focus on step-by-step skill building  
+- 🎯 Aspiring **Data Scientist / AI Engineer**
+
+---
+
+## 🖤 Tech Stack (Dark Mode)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
 ## 📘 Currently Learning
 - Python for data analytics & ML  
-- Pandas, NumPy, Matplotlib (beginner level)  
-- SQL queries & database design  
-- Java OOP & backend basics  
-- HTML/CSS fundamentals  
-- Spring Boot (intro level)  
+- Pandas, NumPy, Matplotlib  
+- SQL & database design  
+- Java OOP fundamentals  
+- HTML/CSS basics  
+- Spring Boot (intro)  
 
 ---
 
-## 🔭 Projects
+## 🔭 Projects  
 *(No public projects yet — adding soon! 🚀)*
-
----
-
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://www.svgrepo.com/show/374016/sql-database-generic.svg" width="40" alt="SQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS"/>
-</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinyyyd&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dinyyyd&theme=default&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinyyyd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dinyyyd&theme=tokyonight&hide_border=false" height="150" />
 </p>
 
 ---
