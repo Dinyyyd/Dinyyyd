@@ -13,7 +13,7 @@
 
 ## 🌿 About Me
 - 🎓 IT undergraduate at **SLIIT**
-- 📊 Interested in **data analytics, data science, and machine learning**
+- 📊 Interested in **AI, data analytics, data science, and machine learning**
 - 💻 Love working with data, visualizations, and clean code  
 - 🌱 Learning: **Java, Python, SQL, HTML, CSS, Git, and ML basics**
 - ⚡ Strong focus on step-by-step skill building  
